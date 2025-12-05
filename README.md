@@ -1,4 +1,4 @@
-Seja muito bem vindo(a)! Eu sou o Enzo Braga 👋🏻
+Welcome! I'm Enzo Vasconcelos👋🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzovasconcelos/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/enzo_vbr)
