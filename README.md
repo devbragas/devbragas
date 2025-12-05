@@ -14,8 +14,7 @@ Tecnologias que eu uso no dia a dia
 ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-Entusiasta da tecnologia, buscando sempre aprimorar minha criatividade para a resolução de problemas através da programação.
-
+I'm a computer engineer and a full-stack developer who loves to transform creativity into code. 🖥️
 
 
 
